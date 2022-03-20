@@ -1,0 +1,8 @@
+table {width: 800px;    height: 500px; text-align: center;}
+.menu{font-style:italic; font-weight: bold; color: blue;}
+.NomeAluno{font-style: italic; font-weight: bold; background-color: hotpink ;}
+.frecChama{background-color: yellow; color: green; font-style: italic;}
+.final{background-color: red; font-style: italic; font-weight: bold;}
+caption{font-style: italic; font-weight: bold;}
+p{font-size: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: italic; font-weight: bold;}
+

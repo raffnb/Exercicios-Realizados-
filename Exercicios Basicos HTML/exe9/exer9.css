@@ -1,0 +1,5 @@
+#exer9{ display: grid;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    grid-template-columns: 1fr 1fr 1fr;
+}
